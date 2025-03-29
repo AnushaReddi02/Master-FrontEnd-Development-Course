@@ -1,4 +1,4 @@
-Master Front-End Development: Complete Course Compilation  🚀
+Master Front-End Development: Complete Course Compilation 🚀
 Learn HTML, CSS, JavaScript, and More!
 
 📌 About This Repository
@@ -73,8 +73,5 @@ Start practicing the concepts and build projects!
 Feel free to fork this repository and contribute with your own front-end resources! 🚀
 
 📢 Stay Connected
-📧 Email: your-email@example.com
-🐦 Twitter: @yourhandle
-🔗 LinkedIn: Your Name
-
-
+📧 Email: anushareddi899@gmail.com
+🔗 LinkedIn: [Your Name](https://www.linkedin.com/in/anusha-reddi-8b547a259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BMDIMxOqTQaK0aFMm3tHGtQ%3D%3D)
